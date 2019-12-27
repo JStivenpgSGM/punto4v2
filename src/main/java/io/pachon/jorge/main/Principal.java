@@ -17,7 +17,7 @@ public class Principal {
         P3 quintoPunto  =  new P3(1,2,3);
         P3 sextoPunto = new P3(segundoPunto, 2);
         P3 septimoPunto = new P3(quintoPunto);
-        P4 octavoPunto = new P4(1,2,3,4);
+        P4 octavoPunto = new P4(1,2,3,7);
         P4 novenoPunto = new P4(octavoPunto);
         P4 decimoPunto = new P4(septimoPunto,4);
 
